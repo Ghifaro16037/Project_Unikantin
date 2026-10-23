@@ -1,5 +1,5 @@
 # R1 Inventaris Data Pribadi
-# Aplikasi: UniKantin | Kelompok: [Nomor Kelompok]
+# Aplikasi: UniKantin | Kelompok: [Unikantin]
 
 | Data              | Kategori UU PDP | Tujuan                 | Lokasi simpan | Retensi        | Perlindungan       |
 |                   |                 |                        |               |                |                    |
