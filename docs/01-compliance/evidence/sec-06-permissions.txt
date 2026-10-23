@@ -1,0 +1,3 @@
+package: id.ac.uad.unikantin
+permission: id.ac.uad.unikantin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+uses-permission: name='id.ac.uad.unikantin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION'
