@@ -1,6 +1,10 @@
-# unikantin
-
-A new Flutter project.
+## UniKantin - Kelompok [Unikantin]
+Topik: UniKantin
+Anggota:
+- [Muhammad Ghifaro Sandy Wibowo] ([2300016037])
+- [Burhanuddin Subekti] ([2300016102])
+- [Safarudin] ([2300016046])
+- [Muhammad Awaludin Farras Assidiq] ([2000016031])
 
 ## Getting Started
 
