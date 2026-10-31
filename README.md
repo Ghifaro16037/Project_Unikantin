@@ -17,7 +17,7 @@ UniKantin adalah aplikasi manajemen transaksi dan pencatatan anggaran kantin kam
 | Milestone | Deskripsi | Status | Tag / Rilis |
 | :--- | :--- | :---: | :---: |
 | **M01** | Project Initiation & Security Baseline | 🟢 Selesai | `m01-initiation` |
-| **M02** | Requirement Specification (SRS) & Use Case | ⚪ Belum | - |
+| **M02** | Requirement Specification (SRS) & Use Case | 🟢 Selesai | `m02-spec` |
 | **M03** | System Architecture & Database Design | ⚪ Belum | - |
 | **M04** | Core Feature Implementation (Local Storage & PIN) | ⚪ Belum | - |
 | **M05** | Remote Data Sync & Security Hardening | ⚪ Belum | - |
